@@ -1,23 +1,51 @@
-# E-commerce Sales Analytics
+# 📊 Ecommerce Sales Analytics Dashboard
 
-## Objective
+## Project Overview
 
-Analyze an e-commerce sales dataset to discover business insights using:
+This project analyzes ecommerce sales data using SQL Server, Python, and Power BI.
 
-- Python
-- SQL
+## Tools Used
+
+- Python (Pandas)
+- SQL Server
 - Power BI
+- DAX
 
-## Tools
+## Features
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+- Data Cleaning using Python
+- SQL Database Design
+- Business Analysis using SQL
+- Interactive Power BI Dashboard
+- KPIs and DAX Measures
+
+## Dashboard KPIs
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+
+## Dashboard Visuals
+
+- Revenue by Category
+- Orders by Status
+- Revenue Trend
+- Customers by State
+- Interactive Slicers
+
+## Skills Demonstrated
+
 - SQL
-- Power BI
-- GitHub
+- Data Modeling
+- Power Query
+- DAX
+- Data Visualization
 
-## Dataset
+## Dashboard Preview
 
-Sample Superstore Dataset
+![Dashboard](Dashboard%20Images/dashboard.png)
+
+## Data Model
+
+![Model View](Dashboard%20Images/model_view.png)
