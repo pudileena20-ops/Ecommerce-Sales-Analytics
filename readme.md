@@ -44,8 +44,8 @@ This project analyzes ecommerce sales data using SQL Server, Python, and Power B
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard%20Images/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ## Data Model
 
-![Model View](Dashboard%20Images/model_view.png)
+![Model View](Screenshots/model_view.png)
